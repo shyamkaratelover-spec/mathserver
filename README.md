@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="{C9F1580E-F7A4-4226-A401-8C455BBD204C}" src="https://github.com/user-attachments/assets/824c0942-f424-481e-9429-176b86bfe4f7" /># Ex.05 Design a Website for Server Side Processing
+# Ex No:5
 # Date:04/10/2025
 # AIM:
 To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side.
